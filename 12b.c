@@ -1,3 +1,4 @@
+//a C program to simulate the Indexed file allocation strategies.
 #include<stdio.h>
 #include<stdlib.h>
 int main()
