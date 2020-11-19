@@ -1,3 +1,4 @@
+// a C program using I/O system calls open(), read() & write() to copy contents of one file to another file.
 #include<stdio.h>
 #include<unistd.h>
 #include<sys/types.h>
