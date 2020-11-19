@@ -1,3 +1,6 @@
+//a C program to create a new process that exec a new program using system calls fork(), execlp() and wait()//
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>
