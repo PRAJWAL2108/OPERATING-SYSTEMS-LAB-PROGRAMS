@@ -1,3 +1,4 @@
+// a C program to simulate Bankers algorithm for the purpose of deadlock avoidance.
 #include<stdio.h>  
  
 int main()
