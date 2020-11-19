@@ -1,3 +1,4 @@
+// C program to simulate the following CPU scheduling algorithms : SJF
 #include<stdio.h>
 int main()
 {
