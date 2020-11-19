@@ -1,3 +1,4 @@
+// a C program to simulate page replacement algorithm : LRU
 #include<stdio.h>
 int find_min(int count[], int size)
 {
