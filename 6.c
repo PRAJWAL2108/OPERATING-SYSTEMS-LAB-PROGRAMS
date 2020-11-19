@@ -1,3 +1,4 @@
+// a C program to simulate producer-consumer problems using semaphores.
 #include<stdio.h>
 #include<stdlib.h>
 int mutex=1,full=0,empty=3,x=0;
