@@ -1,3 +1,4 @@
+// C program to simulate the following CPU scheduling algorithms : FCFS
 #include<stdio.h>
 int main()
 {
