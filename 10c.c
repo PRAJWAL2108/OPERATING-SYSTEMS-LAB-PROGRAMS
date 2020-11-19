@@ -1,3 +1,4 @@
+// a C program to simulate page replacement algorithm : LFU
 #include<stdio.h>
 int main()
 {
