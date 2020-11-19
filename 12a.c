@@ -1,3 +1,4 @@
+//a C program to simulate the Sequential file allocation strategies.
 #include<stdio.h>
 #include<string.h>
 struct fileTable
