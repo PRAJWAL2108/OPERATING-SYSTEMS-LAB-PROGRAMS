@@ -1,3 +1,4 @@
+// a C program to simulate page replacement algorithm : FIFO
 #include<stdio.h>
 int main()
 {
