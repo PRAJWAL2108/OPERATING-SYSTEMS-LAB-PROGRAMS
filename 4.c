@@ -1,3 +1,4 @@
+// a C program to implement a multithreaded program using pthreads.
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
