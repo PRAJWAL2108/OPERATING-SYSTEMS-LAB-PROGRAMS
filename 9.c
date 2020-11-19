@@ -1,3 +1,4 @@
+// a C program to simulate the paging technique of memory management.
 #include<stdio.h>
 int main()
 {
